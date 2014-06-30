@@ -1,5 +1,7 @@
 #Anindya Guha
 
+#This takes a number, n, from STDIN, and generates the fibonacci sequence upto that number.
+
 def fibonacci(n):
     """
     A memoized implementation of (a function
